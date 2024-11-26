@@ -1,0 +1,1 @@
+Simple TODO app, developed using React as client and Flask app as server. Server is connected to PostgreSQL database using psycopg2 python drivers.
